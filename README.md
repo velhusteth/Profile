@@ -3,7 +3,7 @@
 ![Blinking - Yoneyama Mai _ Anime _ Manga](https://github.com/user-attachments/assets/482010ad-b624-4826-8499-2b7e9fea7ec1)
 
 ## About Me
-Hello, I'm Velhust! I'm basically a coder (not actually) but I am still learning to be better. The script that I made is free—just give me a follow or a star if you like it. Thank you so much!
+Hello, I'm Velhust. Although I'm not a professional developer, I'm continuously learning and improving my coding skills. The script I developed is free to use—if you find it useful, feel free to leave a star or follow. Thank you for your support!
 
 ## Projects
 - **Airdrop Tool** – **Script Free**
