@@ -6,7 +6,7 @@
 Hello, I'm Velhust. Although I'm not a professional developer, I'm continuously learning and improving my coding skills. The script I developed is free to use—if you find it useful, feel free to leave a star or follow. Thank you for your support!
 
 ## Projects
-- **Airdrop Tool** – **Script Free**
+- **Airdrop Tool** – **Script Free** - **Smart Contract** - **Blockchain Service** - **Wallet Rescue**
 
 ## Socials
 - [LinkedIn](#)  
